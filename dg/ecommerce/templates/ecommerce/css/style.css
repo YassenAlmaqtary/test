@@ -1,0 +1,20 @@
+.navcationp_page{
+    margin:0 auto;
+}
+
+.login_form {
+    margin:0 auto;
+}
+.profile_image,.order_ifo,.revew_info {
+    display:block;
+    margin:0 auto;
+    text-align:center;
+}
+
+.image_revew{
+ width:150px;
+ height:150px
+}
+
+
+
