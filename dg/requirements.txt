@@ -2,7 +2,7 @@ appdirs==1.4.3
 asgiref==3.2.3
 cairocffi==0.6
 CairoSVG==2.4.2
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 crypto==1.4.1
